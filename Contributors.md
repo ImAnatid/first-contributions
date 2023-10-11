@@ -1589,8 +1589,8 @@ Nikhil R
 - [Yohancnc](https://github.com/yohan-cnc)
 - [Tanmay kute](https://github.com/Tkute0401)
 - Riyad Vali
-- [Anatid](https://github.com/ImAnatid)
 - [Kaushal Ganatra](https://github.com/KaushalGanatra)
+- [Anatid](https://github.com/ImAnatid)
 - [Devak Sharma](https://github.com/devakSharma)
 - [Keshav Bhatia](https://github.com/21219keshav)
 - [chetannada](https://github.com/chetannada)
